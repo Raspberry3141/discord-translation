@@ -31,4 +31,4 @@ async def on_reaction_add(reaction, user):
         print(reaction.emoji)
 
 
-client.run("MTIxMjU2MjIyNzQzODAzMDkwOA.Gm0025.7G6TgYroXsjUlB8W34ZSLFrsQ7UWq3uM3nD13A")
+client.run("YOUR TOKEN HERE")
